@@ -3,7 +3,7 @@
 💻 **Desenvolvedor Full Stack em formação**
 
 Atualmente trabalho como **atendente de Helpdesk**, onde desenvolvo habilidades de análise, suporte técnico e comunicação com usuários.  
-Sou estudante da **Fatec de Votorantim**, cursando **Desenvolvimento de Software Multiplataforma (DSM)**  
+Sou estudante da **Fatec de Votorantim**, cursando **Desenvolvimento de Software Multiplataforma (DSM)** atualmente no terceiro semestre  
 
 ---
 
