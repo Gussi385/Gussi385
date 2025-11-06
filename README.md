@@ -53,4 +53,4 @@ Sou estudante da **Fatec de Votorantim**, cursando **Desenvolvimento de Software
  
 💼 **LinkedIn:** [Miguel Gussi](https://www.linkedin.com/in/miguel-gussi-1a50182b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![Snake animation](https://github.com/Gussi385/Gussi385/blob/output/github-contribution-grid-snake.svg)
+
